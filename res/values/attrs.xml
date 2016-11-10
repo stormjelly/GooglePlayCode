@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- 自定义属性集合的名称 -->
+    <declare-styleable name="MyRatioLayoutAttrs">
+         <attr name="ratio" format="float" />
+         <attr name="ratio1" format="float" />
+         <attr name="ratio2" format="float" />
+         <attr name="ratio3" format="float" />
+    </declare-styleable>
+    
+</resources>
